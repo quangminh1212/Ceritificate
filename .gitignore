@@ -1,0 +1,14 @@
+# Downloaded certificates
+/download/
+
+# Python scripts for downloading
+download_certs.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated/temporary files
+*.log
+*.tmp
